@@ -625,7 +625,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
 
                         context.goNamed(TasksWidget.routeName);
                       },
-                      text: 'Complete Profile',
+                      text: 'Finish Profile',
                       options: FFButtonOptions(
                         width: double.infinity,
                         height: 70.0,
